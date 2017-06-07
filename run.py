@@ -1,3 +1,4 @@
 import scrapecebu
+import csv
 
-scrapecebu.find_names()
+scrapecebu.generate_csv()
